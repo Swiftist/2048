@@ -11,8 +11,8 @@ http://www.ucai.cn/course/show/217
 
 ID|项目介绍|进度
 ---|---|---
-（示例）numbbbbb|完全按照教程进行|完成第一课内容
-（示例）lifedim|在教程基础上扩展了记录比分功能|全部完成
+（示例）[numbbbbb](http://github.com/numbbbbb/swift-2048)|完全按照教程进行|完成第一课内容
+（示例）[lifedim](http://github.com/lifedim/swift-2048)|在教程基础上扩展了记录比分功能|全部完成
 
 # 遇到问题？
 
